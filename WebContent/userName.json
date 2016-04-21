@@ -1,0 +1,29 @@
+{
+   "employees": 
+   [
+       {
+           "FirstName": "Clark",
+           "LastName": "Kent",
+           "Job Title": "Reporter",
+           "Email" : "Superman@gmail.com",
+           "Address" : "Planet World",
+           "Phone Number" : "(0)00-000-000"
+       },
+       {
+           "FirstName": "Bruce",
+           "LastName": "Wayne",
+           "Job": "Vengence",
+           "Email" : "Batman@gmail.com",
+           "Address" : "Wayne Enterprise",
+           "Phone Number" : "(0)11-111-111"
+        },
+       {
+           "FirstName": "Peter",
+           "LastName": "Parker",
+           "Job": "Photographer",
+            "Email" : "Spiderman@gmail.com",
+           "Address" : "Daily News",
+           "Phone Number" : "(0)22-222-222"
+       }
+   ]
+}
